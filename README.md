@@ -1,6 +1,16 @@
 # 🗺️ _leaflet-toolkit_
 
 ![github](https://img.shields.io/github/stars/institutohidrografico/leaflet-toolkit "Github")
+[![GitHub stars](https://img.shields.io/github/stars/hidrografico/leaflet-toolkit?style=social)](https://github.com/hidrografico/leaflet-toolkit)
+[![GitHub forks](https://img.shields.io/github/forks/hidrografico/leaflet-toolkit?style=social)](https://github.com/hidrografico/leaflet-toolkit/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/hidrografico/leaflet-toolkit?style=social)](https://github.com/hidrografico/leaflet-toolkit)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/gadelhati/maps-back)
+![Test Coverage](https://img.shields.io/badge/coverage-5%25-orange)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen)
+
+## **Necessary Tech stack**
 
 ![Node.js](https://img.shields.io/badge/Node.js-22.20.0-339933?logo=node.js)
 ![npm](https://img.shields.io/badge/npm-11.6.2-CB3837?logo=npm)
@@ -103,10 +113,18 @@ npm publish --registry=https://npm.pkg.github.com
 - [x] upload de dados (txt, CSV, GeoJSON, Shapefiles, KML/KMZ): em colunas de latitude/longitude;
 - [x] cálculo de distâncias;
 - [x] desenho derrota;
+
+### **Next Releases**
+
+#### **Release v2.1.0 - Add Content**
+
 - [ ] lighthouses, tide stations, and ETA calculations
 - [ ] ship Tracking - real-time vessel monitoring and trackin
 - [ ] controle de opacidade da layer;
 - [ ] integração com APIs de dados externos: AIS
+
+#### **Release v2.2.0 - Add Features**
+
 - [ ] alertas de colisão baseados em rotas;
 - [ ] otimização de rotas considerando correntes e clima;
 - [ ] pontos coloridos por valor;
@@ -150,7 +168,7 @@ git push -u origin main
 ## Contributing
 We welcome contributions! Please see our Contributing Guidelines for details on how to submit pull requests, report issues, and suggest enhancements.
 1. **Fork** repository;
-2. **Clone** the fork: `git clone https://github.com/<user>/leaflet-toolkit.git`;
+2. **Clone** the fork: `git clone https://github.com/hidrografico/leaflet-toolkit.git`;
 2. Create a **branch**: `git checkout -b feature/AmazingFeature`;
 3. **Commit** yours changes: `git commit -m 'Add some AmazingFeature'`;
 4. **Push** to branch (git push origin feature/AmazingFeature);
@@ -159,8 +177,6 @@ We welcome contributions! Please see our Contributing Guidelines for details on 
 Questions? Open an [issue](https://github.com/institutohidrografico/leaflet-toolkit/issues)!
 
 ## Developers
-> [Instituto Hidrográfico](https://github.com/institutohidrografico)
-
 > [Gadelha TI](https://github.com/gadelhati)
 
 ## Licence
@@ -369,6 +385,16 @@ Questions? Open an [issue](https://github.com/institutohidrografico/leaflet-tool
    limitations under the License.
 ```
 
-<center>
-	Leaflet Toolkit - Navigating the future of geospatial data visualization 🌍
-</center>
+<div align="center">
+
+Leaflet Toolkit - Navigating the future of geospatial data visualization 🌍
+
+**⭐ Did you like the project? Leave a star! ⭐**
+
+[![GitHub stars](https://img.shields.io/github/stars/gadelhati/maps-back?style=social)](https://github.com/gadelhati/maps-back)
+[![GitHub forks](https://img.shields.io/github/forks/gadelhati/maps-back?style=social)](https://github.com/gadelhati/maps-back/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/gadelhati/maps-back?style=social)](https://github.com/gadelhati/maps-back)
+
+**Made by [Gadelha TI](https://github.com/gadelhati)**
+
+</div>
